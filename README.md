@@ -7,11 +7,11 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import all the required packages.
 
 
 ### Step2:
-<br>
+
 
 ### Step3:
 <br>
@@ -77,12 +77,12 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-![github.logo](pup.png)
-![github.logo](org.png)
-![github.logo](gray.png)
-![github.logo](sobxy.png)
-![github.logo](sobx.png)
-![github.logo](soby.png)
+<br>![github.logo](pup.png)<br>
+<br>![github.logo](org.png)<br>
+<br>![github.logo](gray.png)<br>
+<br>![github.logo](sobxy.png)<br>
+<br>![github.logo](sobx.png)<br>
+<br>![github.logo](soby.png)<br>
 
 ### LAPLACIAN EDGE DETECTOR
 ![github.logo](lap.png)
